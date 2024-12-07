@@ -19,5 +19,4 @@ class CfgPatches
 			"Extended_EventHandlers"
 		};	
     };
-	
 };
